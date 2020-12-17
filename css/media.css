@@ -1,0 +1,378 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+			/*header start*/
+			 .logo {
+			    width: 78%;
+			}	
+
+			 .menu ul li a{
+				 text-align: right;
+				 padding: 0 0px !important;
+			}
+			.menu ul li a {
+			    font-size: 12px;
+			}
+
+			/*slider start*/
+			.wraper img {
+			    margin-top: 55px;
+			    width: auto;
+			    height: 40px;
+			}
+			.wraper p {
+			    padding: 0;
+			    margin-top: 12px;
+			    margin-bottom: 0px;
+			    font-size: 13px;
+			    letter-spacing: 0px;
+			    line-height: 15px;
+			}
+
+
+			.wraper button {
+			    margin-top: 13px;
+			    font-size: 15px;
+			    width: 135px;
+			    height: 30px;
+			    margin-bottom: 40px;
+			}
+			.banner {
+			    min-height: auto;
+			}
+			/*feture start*/
+			.features {
+			    background-color: #585858;
+			    padding-top: 30px;
+			    padding-bottom: 30px;
+			}.s_text {
+			    text-align: center;
+			    margin-top: 0px;
+			}
+			.c_h1 {
+			    font-size: 25px;
+			}
+			.s_text h2 {
+			    margin-top: 0px;
+			    text-transform: uppercase;
+			    margin-bottom: 10px;
+			    font-size: 16px;
+			    font-weight: 400px;
+			    color: #ffffff;
+			}
+			.c_p {
+			    padding: 15px;
+			    margin-top: 0px;
+			    font-size: 12px;
+			    line-height: 18px;
+			}
+			.c_h1 {
+			    font-size: 16px;
+			}
+			.c_p {
+			    margin-top: 0px;
+			    font-size: 12px;
+			    line-height: 19px;
+			}
+			.si_text h2 {
+			    margin-top: 0px;
+			    margin-bottom: 0px;
+			    font-size: 15px;
+			}.si_text p {
+			    margin-top: 10px;
+			    font-size: 12px;
+			    letter-spacing: 0px;
+			    word-spacing: 0px;
+			    line-height: 20px;
+			}
+			    .si_text h5 {
+			    color: white;
+			    font-size: 14px;
+			}
+
+			/*contact start*/
+			.c_padding {
+			    padding-top: 40px;
+			    padding-bottom: 0px;
+			}
+			.c_h1 {
+			    font-size: 12px;
+			}
+			.c_p {
+			    margin-top: -25px;
+			    font-size: 12px;
+			    line-height: 20px;
+			}
+
+			/*footer start*/
+			.f_logo {
+			    margin-top: 30px;
+			    margin-bottom: 14px;
+			    width: 35%;
+			}
+			
+			.social_icon ul li a i {
+			    width: 18px;
+			    height: 18px;
+			    font-size: 25px;
+			}
+			/*service*/
+			.card h1 {
+			    margin-top: 16px;
+			    font-size: 16px;
+			}
+			.card p {
+			    font-size: 13px;
+			    line-height: 22px;
+			    padding: 0;
+			}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	        /*header start*/
+			.img-fluid {
+			    max-width: 90%;
+			    height: auto;
+			}
+		   .menu ul li a{
+				 text-align: right;
+				 padding: 0 0px !important;
+		   }
+		  
+
+		   	/*banner start*/
+		  .wraper img {
+			    margin-top: 195px;
+			    width: auto;
+			    height: 70px;
+			}
+			.wraper p {
+			    padding: 0px;
+			    margin-top: 25px;
+			    margin-bottom: 0px;
+			    color: #ffffff;
+			    letter-spacing: 0px;
+			    line-height: 27px;
+			    word-spacing: 0px;
+			}
+			.banner {
+			    min-height: 595px;
+			}
+			.wraper button {
+			    margin-top: 12px;
+			    font-size: 18px;
+			    width: 160px;
+			    height: 32px;
+			}
+				/*features start*/
+
+	
+				.c_padding {
+				    padding-top: 60px;
+				    padding-bottom: 80px;
+				}
+				.c_mt-70px {
+				    margin-top: 50px;
+				}
+				.si_text {
+				    margin-top: 0px;
+				    text-align: center;
+				}
+				
+				
+				.c_h1 {
+				    margin-bottom: 0px;
+				    text-transform: uppercase;
+				    font-weight: 700px;
+				    font-size: 30px;
+				    color: #00c0ff;
+				    margin-top: -80px;
+				}
+				.c_p {
+				    margin-top: 20px;
+				    font-size: 16px;
+				    letter-spacing: 0px;
+				    line-height: 20px;
+				}
+				.s_text {
+				    margin-top: 10px;
+				    text-align: center;
+				}
+				.c_h1 {
+				    font-size: 28px;
+				    margin-top: 0px;
+				}
+				.si_text h2 {
+				    margin-top: 15px;
+				    margin-bottom: 16px;
+				    font-size: 25px;
+				}
+			  .c_p {
+			    margin-top: 20px;
+			    font-size: 15px;
+			    letter-spacing: 0px;
+			    line-height: 20px;
+			}
+			  .si_text p {
+			    margin-top: 30px;
+			    font-size: 15px;
+			    color: white;
+			    letter-spacing: 1px;
+			    word-spacing: 0px;
+			    line-height: 25px;
+			}
+			 .img-fluid {
+			    max-width: 100%;
+			    height: auto;
+}
+
+			.f_logo {
+			    margin-top: 100px;
+			    margin-bottom: 14px;
+			    width: 30%;
+			}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+			/*header start*/
+			.menu ul li a{
+				text-align: right;
+				padding: 0 0px !important;
+			}
+			/*slider start*/
+			.wraper img {
+			    margin-top: 171px;
+			    height: 90px;
+			}
+			.wraper p {
+			    margin-top: 33px;
+			    margin-bottom: 35px;
+			    letter-spacing: 0px;
+			    line-height: 23px;
+			    word-spacing: 0px;
+			}
+			.banner {
+				min-height: auto;
+			    background-position: center;
+			    background-size: cover;
+			}
+			.wraper button {
+			    margin-bottom: 100px;
+			}
+			/*features start*/
+			 .c_padding {
+			    padding-top: 100px;
+			    padding-bottom: 120px;
+			}
+			.s_text {
+			    margin-top: 10px;
+			    text-align: center;
+			    padding-right: 175px;
+			}
+			.c_h1 {
+			    margin-bottom: 0px;
+			    font-size: 35px;
+			}
+			.c_p {
+			    margin-top: 20px;
+			    font-size: 15px;
+			    letter-spacing: 0px;
+			    line-height: 20px;
+			}
+			.si_text p {
+			    margin-top: 30px;
+			    font-size: 15px;
+			    color: white;
+			    letter-spacing: 1px;
+			    word-spacing: 0px;
+			    line-height: 25px;
+			}
+			/*service*/
+			.card p {
+			    font-size: 15px;
+			    line-height: 24px;
+			}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+			/*header start*/
+			.menu ul li a{
+				    text-align: left;
+		            padding: 15px !important;
+		     }       
+		     /*slider start*/
+			.wraper p {
+				    margin-top: 20px;
+				    margin-bottom: 35px;
+				    letter-spacing: 2px;
+				    line-height: 24px;
+				    word-spacing: 2px;
+}
+			.banner {
+				    background-image: url(../images/slider.png);
+				    min-height: 540px;
+				    width: 100%;
+				}
+				.wraper img {
+				    margin-top: 140px;
+				    width: auto;
+				    height: 100px;
+				}
+				/*feature start*/
+				.c_p {
+				    margin-top: 25px;
+				    letter-spacing: 0px;
+				    line-height: 24px;
+				}
+				.si_text h2 {
+				    margin-top: 60px;
+				    font-size: 17px;
+				}
+				/*service start*/
+				.card h1 {
+				    margin-top: 16px;
+				    font-size: 20px;
+				   /* margin-top: 20px;*/
+				    text-transform: uppercase;
+				    margin-bottom: 16px;
+				    font-size: 30px;
+				    color: #00c0ff;
+				    text-align: center;
+								}
+				.card p {
+				    font-size: 16px;
+				    line-height: 22px;
+				    padding: 0;
+				}
+}
+
+/*X-devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	/*features start*/
+
+}
+
+/*Extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+				/*slider start*/
+				.banner {
+			    min-height: 790px;
+			}
+			.wraper button {
+				    margin-top: 40px;
+				    font-size: 20px;
+				    width: 200px;
+				    height: 55px;
+				}
+				/*service*/
+				.card h1 {
+				    margin-top: 16px;
+				    font-size: 30px;
+				}
+				.card p {
+				    font-size: 17px;
+				    line-height: 22px;
+				    /* padding: 0; */
+				}
+}
